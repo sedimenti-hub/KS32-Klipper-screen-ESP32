@@ -2,7 +2,15 @@
 
 ![](IMG/gif.gif)
 
-A simple and inexpensive way to control Klipper via Wi-Fi, using a development module that already includes an ESP32 and a touchscreen.
+### A simple and inexpensive way to control Klipper via Wi-Fi, using a development module that already includes an ESP32 and a touchscreen.
+
+With KS32, you can interact with your printer from anywhere, as the connection runs over your Wi-Fi network. 
+
+It offers nearly the same functionality as KlipperScreen, albeit with some limitations due to the small display. 
+
+The idea was to monitor multiple printers simultaneously from my desk without having to keep numerous browser tabs open.
+
+I designed the shell to be flexible use, allowing for various applications by incorporating an M3 insert and five magnets on the back.
 
 ## Components:
 
