@@ -1,4 +1,4 @@
-![](IMG/main.png)
+![](IMG/gif.gif)
 
 A simple and inexpensive way to control Klipper via Wi-Fi, using a development module that already includes an ESP32 and a touchscreen.
 
